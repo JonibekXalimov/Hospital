@@ -1,4 +1,4 @@
-# Hospital
+# python OOP Hospital
 
 Bu loyiha Python tilida yozilgan oddiy hospital (kasalxona) dasturi.
 
